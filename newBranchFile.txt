@@ -1,0 +1,7 @@
+This branch will only show up in the "new-branch"
+
+$ git checkout -b <branch-name><br>
+// this command creates a new branch named branch-name
+
+$ git branch<br>
+// this command shows the user which branch he is currrently working on
