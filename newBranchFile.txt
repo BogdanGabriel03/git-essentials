@@ -5,3 +5,6 @@ $ git checkout -b <branch-name><br>
 
 $ git branch<br>
 // this command shows the user which branch he is currrently working on
+
+$ git pull ...<br>
+// this command is a concetanation of git fetch ... and git merge ...
