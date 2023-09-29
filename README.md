@@ -19,3 +19,12 @@ This repository is made to help me learn hoe to use git and github
 ## Pull requests
 
     - learning about pull requests in a practical way
+
+## Undoing a commit
+
+    - $ git reset --hard <hash> sau origin/main  (it will delete files)
+    - $ git reset --soft <hash> sau origin/main  (it will not delete files)
+
+## Undoing an already pushed commit
+
+    - $ git push origin master  --force (-f)
