@@ -15,3 +15,7 @@ This repository is made to help me learn hoe to use git and github
 
     - git checkout <id>
     lets you go back in time to the point where the id points
+
+## Pull requests
+
+    - learning about pull requests in a practical way
