@@ -7,3 +7,8 @@ $ git clone <what_you_want_to_clone><br>
 
 $ git status<br>
 // this command shows the status of your work ( unstaged/staged files etc. )
+
+## Going back in time with git
+
+    - git checkout <id>
+    lets you go back in time to the point where the id points
